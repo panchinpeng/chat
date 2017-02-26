@@ -1,0 +1,8 @@
+.backcolor{
+	background-color: #99BBFF
+}
+.input{
+	position:fixed; /*固定位置定位*/
+	width: 40%;
+  	z-index:1; /*重疊時會在其他元素之上*/
+}
